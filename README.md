@@ -29,7 +29,7 @@
 
 # 💻 기술 스택
 - OS: macOS
-- 개발 도구: eclipse
+- 개발 도구: Eclipse IDE
 - 주요 기술: Java
 
 👥 프로젝트 작업인원: 4명
